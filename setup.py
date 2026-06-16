@@ -12,7 +12,7 @@ requires = [
     'cliff==2.7.0',
     'stevedore>=1.10.0',
     'requests>=2.7.0',
-    'cryptography>=3.2; python_version >= "3.6"',
+    'cryptography==48.0.1; python_version >= "3.6"',
     'cryptography==3.2; python_version == "3.5" or python_version == "2.7"',
     'six>=1.10.0',
     'ndg-httpsclient>=0.4.0',
